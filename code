@@ -1,0 +1,18 @@
+ <style>
+        .iframe-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px; /* Espacio entre los iframes */
+        }
+        .iframe-container iframe {
+            flex: 1;
+            min-width: 300px; /* Ajusta el ancho mínimo según tus necesidades */
+        }
+    </style>
+</head>
+<body>
+    <div class="iframe-container">
+        <!-- Agrega  iframes aquí según sea necesario -->
+    </div>
+</body>
+</html>
